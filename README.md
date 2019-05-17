@@ -2,7 +2,7 @@
 
 ![](https://github.com/JeremySCook/GoProLaserAim/blob/master/logo-template-laserAim.jpg)
 
-3D-Printed device for aiming a GoPro camera
+3D-Printed device for aiming a GoPro camera.
 
 Parts needed:
 
@@ -14,3 +14,5 @@ Parts needed:
 	<li>JST connectors https://amzn.to/2VMVtqo (Amazon affiliate)
 	<li>wires</li>
 </ul>
+
+Note that I've applied for a provisional utility patent on this device, so while you're welcome to make one for yourself, please get in contact if you'd like to manufacture in bulk info@jeremyscook.com. I'd love to discuss licensing the idea!
