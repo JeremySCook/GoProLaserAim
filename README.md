@@ -15,4 +15,4 @@ Parts needed:
 	<li>wires</li>
 </ul>
 
-Note that I've applied for a provisional utility patent on this device, so while you're welcome to make one for yourself, please get in contact if you'd like to manufacture in bulk info@jeremyscook.com. I'd love to discuss licensing the idea!
+Note that I've applied for a provisional utility patent on this device, so while you're welcome to make one for yourself, please get in contact if you'd like to manufacture in bulk via info@jeremyscook.com. I'd love to discuss licensing the idea!
