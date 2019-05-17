@@ -7,7 +7,9 @@
 Parts needed:
 
 <ul>
-	<li>Kills fleas </li>
-	<li>Prevents heartworm disease</li>
-	<li>Treats &amp; controls adult hookworms, roundworms &amp; whipworms</li>
+	<li>3D printed body included
+	<li>laser https://amzn.to/2Yya9Xp (Amazon 40-pack, didn't reallize just how cheap they are!)
+	<li>button
+	<li>battery
+	<li>wires</li>
 </ul>
