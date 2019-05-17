@@ -1,4 +1,4 @@
-# GoProLaserAim
+# GoPro Laser Aiming Fixture
 
 ![](https://github.com/JeremySCook/GoProLaserAim/blob/master/logo-template-laserAim.jpg)
 
