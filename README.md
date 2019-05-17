@@ -2,7 +2,7 @@
 
 ![](https://github.com/JeremySCook/GoProLaserAim/blob/master/logo-template-laserAim.jpg)
 
-3D-Printed device for aiming a GoPro camera.
+3D-Printed device for aiming a GoPro camera. Wiring and assembly per to-be-released video, but it's just an on/off switch.
 
 Parts needed:
 
