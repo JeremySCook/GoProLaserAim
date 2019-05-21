@@ -15,6 +15,8 @@ Parts needed:
 	<li>wires</li>
 </ul>
 
+Head strap that I used is something like this https://amzn.to/2M05qfB (Amazon), but there are a wide range of mounting options. Tested with a Hero Session and Hero5.
+
 Note that I've applied for a provisional utility patent on this device, so while you're welcome to make one for yourself, please get in contact if you'd like to manufacture in bulk via info@jeremyscook.com. I'd love to discuss licensing the idea!
 
 Links to Amazon are affiliate.
