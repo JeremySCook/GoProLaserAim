@@ -7,7 +7,7 @@
 Parts needed:
 
 <ul>
-	<li>3D printed body included
+	<li>3D printed body per included file
 	<li>laser https://amzn.to/2Yya9Xp (Amazon: 40-pack, didn't reallize just how cheap they are!)
 	<li>button https://amzn.to/2YBax7C (Amazon: I think that's the right model)
 	<li>battery https://www.adafruit.com/product/1570 or https://amzn.to/2Yz7jRS (Amazon)
