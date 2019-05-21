@@ -1,6 +1,6 @@
 # GoPro Laser Aiming Fixture
 
-![](https://github.com/JeremySCook/GoProLaserAim/blob/master/logo-template-laserAim.jpg)
+![https://www.youtube.com/watch?v=hc0DtLFc5Wk](https://github.com/JeremySCook/GoProLaserAim/blob/master/logo-template-laserAim.jpg)
 
 3D-Printed device for aiming a GoPro camera. Wiring and assembly per to-be-released video, but it's just an on/off switch.
 
